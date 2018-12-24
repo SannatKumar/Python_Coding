@@ -1,0 +1,1000 @@
+ 1035  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 7F0CEB10
+ 1036  echo "deb http://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/3.2 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.2.list
+ 1037  sudo apt-get update
+ 1038  sudo systemctl start mongod
+ 1039  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv EA312927
+ 1040  echo "deb http://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/3.2 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.2.list
+ 1041  sudo apt-get update
+ 1042  sudo apt-get install -y mongodb-org
+ 1043  sudo apt-get update
+ 1044  sudo systemctl start mongod
+ 1045  sudo systemctl status mongod
+ 1046  mongod --v
+ 1047  mongod -v
+ 1048  sudo systemctl enable mongod
+ 1049  sudo apt-get update
+ 1050  sudo apt-get install nodejs
+ 1051  sudo apt-get install npm
+ 1052  nodejs -v
+ 1053  mongod -v
+ 1054  mongod --version
+ 1055  npm start
+ 1056  cd Desktop/
+ 1057  cd React/
+ 1058  ls
+ 1059  npm install
+ 1060  cd Desktop/
+ 1061  ls
+ 1062  cd React/
+ 1063  ls
+ 1064  cd new_age_digi_care/
+ 1065  npm install
+ 1066  npm install -g npm@3
+ 1067  cd Desktop/
+ 1068  ls
+ 1069  cd React/
+ 1070  ls
+ 1071  cd new_age_digi_care/
+ 1072  npm install --save package-json
+ 1073  sudo apt-get install nodejs npm
+ 1074  sudo apt auto remove
+ 1075  sudo apt autoremove
+ 1076  node
+ 1077  node -v
+ 1078  mongod -v
+ 1079  curl
+ 1080  curl -v
+ 1081  sudo apt-get install curl
+ 1082  clear
+ 1083  sudo apt-get install python-software-properties
+ 1084  MONGOD
+ 1085  mongod
+ 1086  mongod --v
+ 1087  mongod --help
+ 1088  mongod -v
+ 1089  clear
+ 1090  cd /etc
+ 1091  ls -al
+ 1092  cd apt
+ 1093  ls
+ 1094  sudo nano sources.list.d
+ 1095  sudo apt-get purge mongodb-org*
+ 1096  sudo apt-cache search mongo*
+ 1097  apt-cache --help
+ 1098  sudo apt-get update
+ 1099  sudo apt-get clean
+ 1100  sudo apt-get update
+ 1101  sudo apt-key list
+ 1102  sudo apt-key del EA312927
+ 1103  sudo apt-key list
+ 1104  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 9DA31620334BD75D9DCB49F368818C72E52529D4
+ 1105  echo "deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/4.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-4.0.list
+ 1106  sudo nano sources.list.d
+ 1107  lscpu
+ 1108  clear
+ 1109  echo "deb https://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/4.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-4.0.list
+ 1110  sudo nano sources.list.d
+ 1111  source ~/.bashrc
+ 1112  sudo nano sources.list.d
+ 1113  cd sources.list.d/
+ 1114  ls
+ 1115  sudo rm mongodb-org-3.2.list 
+ 1116  sudo rm mongodb-org-3.4.list 
+ 1117  sudo rm mongodb-org-3.6.list 
+ 1118  ls
+ 1119  sudo nano mongodb-org-4.0.list 
+ 1120  cd
+ 1121  sudo apt-get update
+ 1122  sudo apt-get install -y mongodb-org=4.0.0 mongodb-org-server=4.0.0 mongodb-org-shell=4.0.0 mongodb-org-mongos=4.0.0 mongodb-org-tools=4.0.0
+ 1123  sudo service mongod start
+ 1124  source ~/.bashrc
+ 1125  clear
+ 1126  sudo service mongod start
+ 1127  mongod -v
+ 1128  mongo
+ 1129  clear
+ 1130  sudo service mongod status
+ 1131  sudo service mongod stop
+ 1132  sudo service mongod status
+ 1133  sudo service mongod start
+ 1134  sudo service mongod status
+ 1135  sudo service mongod.service status
+ 1136  sudo service mongod status
+ 1137  mongo
+ 1138  clear
+ 1139  sudo service mongod restart
+ 1140  clear
+ 1141  cd -etc
+ 1142  cd /etc
+ 1143  ls
+ 1144  sudo nano mongod.conf
+ 1145  sudo nano mongodb.conf
+ 1146  clear
+ 1147  sudo service mongodb restart
+ 1148  sudo service mongod restart
+ 1149  sudo systemctl restart mongod'
+ 1150  sudo systemctl restart mongod
+ 1151  sudo systemctl unmask mongodb
+ 1152  ls
+ 1153  sudo service mongod start
+ 1154  mongo
+ 1155  cd
+ 1156  cd Desktop/
+ 1157  ls
+ 1158  cd React/
+ 1159  ls
+ 1160  cd new_age_digi_care/
+ 1161  ls
+ 1162  cd node_modules/
+ 1163  ls
+ 1164  clear
+ 1165  ls
+ 1166  cd
+ 1167  python -v
+ 1168  clear
+ 1169  npm start
+ 1170  cd new_age_digi_care/
+ 1171  npm start
+ 1172  g++ classjuyten.cpp -o main
+ 1173  ls
+ 1174  g++ classjulyten.cpp -o main
+ 1175  ./main
+ 1176  g++ julyten2.cpp -o main
+ 1177  ./main
+ 1178  g++ julyten2.cpp -o main 
+ 1179  ./main 
+ 1180  g++ julyten2.cpp -o main
+ 1181  ./main 
+ 1182  g++ julyten2.cpp -o main
+ 1183  ./main
+ 1184  g++ julyten2.cpp -o main
+ 1185  cd /home/rajbuddy/Documents/c_plus_plus/cplusobject/tpobjclasses
+ 1186  g++ julyten2.cpp -o main
+ 1187  /usr/bin/g++ julyten2.cpp -o main
+ 1188  ls
+ 1189  which g++
+ 1190  cd ..
+ 1191  ls
+ 1192  cd classfirst2
+ 1193  ls
+ 1194  g++ julyten2.cpp -o main
+ 1195  ./main
+ 1196  g++ rectangle.cpp -o rectmain
+ 1197  ./rectmain 
+ 1198  -wd
+ 1199  pwd
+ 1200  which g++
+ 1201  cd
+ 1202  sudo apt-get update
+ 1203  sudo apt-get upgrade
+ 1204  lscpu
+ 1205  clear
+ 1206  cd Downloads/
+ 1207  ls
+ 1208  clear
+ 1209  sudo dpkg -i code_1.25.0-1530796411_amd64.deb
+ 1210  sudo apt-get install -f
+ 1211  sudo apt-get update
+ 1212  clear
+ 1213  sudo apt-get upgrade
+ 1214  cd ..
+ 1215  clear
+ 1216  sudo apt-get update
+ 1217  curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > microsoft.gpg
+ 1218  sudo apt-get updat
+ 1219  sudo mv microsoft.gpg /etc/apt/trusted.gpg.d/microsoft.gpg
+ 1220  sudo sh -c 'echo "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main" > /etc/apt/sources.list.d/vscode.list'
+ 1221  sudo apt-get update
+ 1222  sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 6494C6D6997C215E
+ 1223  sudo apt-get update
+ 1224  sudo nano /etc/apt/sources.list
+ 1225  wget https://dl.google.com/linux/linux_signing_key.pub
+ 1226  sudo apt-key add linux_signing_key.pub
+ 1227  sudo apt-get update
+ 1228  sudo rm /etc/apt/sources.list.d/google-chrome.list
+ 1229  sudo apt-get update
+ 1230  clear
+ 1231  sudo apt-get upgrade
+ 1232  clear
+ 1233  mongo db
+ 1234  MONGOD
+ 1235  mongod
+ 1236  sudo service mongodb start
+ 1237  LS
+ 1238  ls
+ 1239  cd node_modules/
+ 1240  sudo service mongodb start
+ 1241  sudo service mongodb stop
+ 1242  mongodb
+ 1243  mongod
+ 1244  sudo apt-get update
+ 1245  mongod
+ 1246  sudo service mongodb start
+ 1247  sudo apt-get install --reinstall mongodb
+ 1248  mongodb
+ 1249  mongod
+ 1250  sudo service mongodb start
+ 1251  mongo
+ 1252  pwd
+ 1253  ls
+ 1254  cd Desktop/
+ 1255  ls
+ 1256  cd React/
+ 1257  npm start
+ 1258  cd ..
+ 1259  ls
+ 1260  cd home
+ 1261  cd Desktop
+ 1262  ls
+ 1263  cd /Desktop
+ 1264  cd \Desktop
+ 1265  cd /Desktop
+ 1266  cd /Desktop/
+ 1267  cd ..
+ 1268  cd /Desktop
+ 1269  cd \Desktopls
+ 1270  ls
+ 1271  pwd
+ 1272  cd Home
+ 1273  cd /Home
+ 1274  cd Home/
+ 1275  cd \rajbuddy
+ 1276  cd /rajbuddy/
+ 1277  npm start
+ 1278  sudo add-apt-repository ppa:ubuntuhandbook1/audacity
+ 1279  sudo apt update
+ 1280  sudo apt install audacity
+ 1281  sudo add-apt-repository ppa:ubuntuhandbook1/audacity
+ 1282  sudo apt-get update
+ 1283  npm start
+ 1284  pwd
+ 1285  cd
+ 1286  cd Desktop/
+ 1287  pwd
+ 1288  cd React/
+ 1289  cd .
+ 1290  cd ..
+ 1291  cd learnitall/
+ 1292  npm start
+ 1293  cd ..
+ 1294  pwd
+ 1295  ls
+ 1296  cd ..
+ 1297  cd learnitall/
+ 1298  npm install create-react-app -g
+ 1299  npm create-react-app -g
+ 1300  npm init react-app instargram
+ 1301  npm start
+ 1302  sudo apt-get upgrade
+ 1303  pwd
+ 1304  ls
+ 1305  cd Desktop/
+ 1306  ls
+ 1307  cd learnitall/
+ 1308  npm start
+ 1309  npm install -g create-react-app
+ 1310  npm apt-get update
+ 1311  cd ..
+ 1312  ls
+ 1313  cd ..
+ 1314  ls'
+ 1315  ls
+ 1316  cd learnitall/
+ 1317  npm start
+ 1318  npm install
+ 1319  npm start
+ 1320  npm install
+ 1321  npm run build
+ 1322  npm start
+ 1323  cd ..
+ 1324  pwd
+ 1325  ls
+ 1326  cd React/
+ 1327  ls
+ 1328  cd new_age_digi_care/
+ 1329  npm start
+ 1330  cd ..
+ 1331  ls
+ 1332  cd learnitall/
+ 1333  ls
+ 1334  gedit package.json
+ 1335  npm init react-app instagram
+ 1336  cd instagram
+ 1337  npm init react-app instagram
+ 1338  pwd
+ 1339  ls
+ 1340  npm start
+ 1341  npm -v
+ 1342  node -v
+ 1343  which node
+ 1344  gedit package.json 
+ 1345  sudo npm init react-app instagram
+ 1346  ls
+ 1347  rm package-lock.json
+ 1348  ls
+ 1349  npm install
+ 1350  gedit package.json 
+ 1351  cd ..
+ 1352  ls
+ 1353  cd learnitall/
+ 1354  ls
+ 1355  sudo npm create-react-app instagram
+ 1356  react-app
+ 1357  sudo npm init react-app instagram
+ 1358  ls
+ 1359  npx create-react-app instagram
+ 1360  npm -v
+ 1361  npm -g
+ 1362  npm --help
+ 1363  npm help
+ 1364  sudo npx init react-app instagram
+ 1365  pwd
+ 1366  ls
+ 1367  cd Desktop/
+ 1368  ls
+ 1369  cd learnitall/
+ 1370  ls
+ 1371  cd instagram/
+ 1372  ls
+ 1373  npm install
+ 1374  sudo npm install
+ 1375  npm start
+ 1376  npm install
+ 1377  sudo npm install
+ 1378  npm -v
+ 1379  npm -help
+ 1380  npm update
+ 1381  npm upgrade
+ 1382  cd ..
+ 1383  ls
+ 1384  cd New_agey/
+ 1385  ls
+ 1386  cd hello-world/
+ 1387  ls
+ 1388  npm start
+ 1389  npm update
+ 1390  which npm
+ 1391  sudo /usr/bin/npm update
+ 1392  cd ..
+ 1393  c d..
+ 1394  ls
+ 1395  cd ..
+ 1396  ls
+ 1397  cd learnitall/
+ 1398  ls
+ 1399  sudo npm create-react-app instagram
+ 1400  cd instagram/
+ 1401  ls
+ 1402  npm install
+ 1403  cd ..
+ 1404  rm -rf instagram/
+ 1405  sudo rm -rf instagram/
+ 1406  ls
+ 1407  rm -rf *
+ 1408  ls
+ 1409  sudo npm create-react-app instagram
+ 1410  ls
+ 1411  npm update -g
+ 1412  sudo npm update -g
+ 1413  gedit npm-debug.log 
+ 1414  sudo npm update -g react-cli
+ 1415  npm install -g create-react-app
+ 1416  node
+ 1417  node -v
+ 1418  npm -v|
+ 1419  cd /usr
+ 1420  ls
+ 1421  cd bin/
+ 1422  ls
+ 1423  cd node
+ 1424  ls -al 
+ 1425  ls -al | grep 'node*'
+ 1426  cd ..
+ 1427  ls
+ 1428  cd share
+ 1429  ls
+ 1430  cd nodejs/
+ 1431  ls
+ 1432  cd ..
+ 1433  npm install nmp@latest -g
+ 1434  sudo npm install nmp@latest -g
+ 1435  sudo /usr/bin/npm install nmp@latest -g
+ 1436  npm install
+ 1437  sudo npx init react-app instagram
+ 1438  sudo create-react-app instagram
+ 1439  pwd
+ 1440  ls
+ 1441  cd Desktop/
+ 1442  ls
+ 1443  cd React/
+ 1444  mkdir New_project
+ 1445  ls
+ 1446  npm install -g create-react-app
+ 1447  npm install
+ 1448  npm set registry http://registry.npmjs.org/
+ 1449  npm install -g create-react-app
+ 1450  sudo npm install -g create-react-app
+ 1451  create-react-app instagram
+ 1452  npm start
+ 1453  pwd
+ 1454  ls
+ 1455  cd instagram/
+ 1456  npm start
+ 1457  npm run build
+ 1458  redux -v
+ 1459  npm start
+ 1460  npm run build
+ 1461  pwd
+ 1462  ls
+ 1463  cd src
+ 1464  mkdir components
+ 1465  ls
+ 1466  cd components/
+ 1467  mkdir Header && cd Header
+ 1468  touch index.js
+ 1469  ls
+ 1470  gedit index.js 
+ 1471  ls
+ 1472  touch Header.css
+ 1473  gedit Header.css 
+ 1474  touch index.js 
+ 1475  gedit index.js 
+ 1476  npm start
+ 1477  gedit index.js 
+ 1478  npm start
+ 1479  pwd
+ 1480  cd ..
+ 1481  mkdir Footer && cd Footer
+ 1482  touch index.js
+ 1483  touch Footer.css
+ 1484  ls
+ 1485  cd ..
+ 1486  ls
+ 1487  mkdir Post && cd Post
+ 1488  ls
+ 1489  touch index.js
+ 1490  gedit index.js 
+ 1491  pwd
+ 1492  ls
+ 1493  touch Post.css && gedit Post.css
+ 1494  ls
+ 1495  gedit index.js
+ 1496  pwd
+ 1497  cd ..
+ 1498  npm start
+ 1499  ls
+ 1500  cd components/
+ 1501  ls
+ 1502  cd pos
+ 1503  cd Post/
+ 1504  ls
+ 1505  gedit index.js
+ 1506  ls
+ 1507  cd ..
+ 1508  npm start
+ 1509  pwd
+ 1510  ls
+ 1511  cd components/
+ 1512  ls
+ 1513  cd Post
+ 1514  ls
+ 1515  gedit index.js
+ 1516  cd ..
+ 1517  npm start
+ 1518  pwd
+ 1519  ls
+ 1520  cd src
+ 1521  npm start
+ 1522  cd src
+ 1523  npm start
+ 1524  sudo npm start
+ 1525  npm start
+ 1526  pwd
+ 1527  ls
+ 1528  cd Desktop/
+ 1529  ls
+ 1530  cd React/
+ 1531  ls
+ 1532  cd Ins
+ 1533  cd instagram/
+ 1534  ls
+ 1535  npm install
+ 1536  cd src
+ 1537  npm start
+ 1538  pwd
+ 1539  ls
+ 1540  cd Desktop/
+ 1541  cd learnitall/
+ 1542  ls
+ 1543  npm install -g create-react-app
+ 1544  sudo npm install -g create-react-app
+ 1545  create-react-app Profile_page
+ 1546  create-react-app profile_page
+ 1547  npm start
+ 1548  ls
+ 1549  cd profile_page/
+ 1550  npm start
+ 1551  cd ..
+ 1552  npm install
+ 1553  ls
+ 1554  cd profile_page/
+ 1555  npm start
+ 1556  npm install -g
+ 1557  pwd
+ 1558  ls
+ 1559  npm start
+ 1560  ls
+ 1561  cd ..
+ 1562  npm set registry http://registry.npmjs.org/
+ 1563  npm install -g create-react-app
+ 1564  sudo npm install -g create-react-app
+ 1565  pwd
+ 1566  ls
+ 1567  create-react-app profile_page
+ 1568  cd profile_page/
+ 1569  npm start
+ 1570  killall npm
+ 1571  cd ..
+ 1572  killall npm
+ 1573  cd Desktop/learnitall/profile_page/
+ 1574  npm start
+ 1575  sudo killall npm
+ 1576  npm start
+ 1577  netstat
+ 1578  cd ..
+ 1579  ls
+ 1580  cd new_age_digi_care/
+ 1581  npm start
+ 1582  cd ..
+ 1583  cd instagram/src
+ 1584  npm start
+ 1585  hostnamectl
+ 1586  cd de
+ 1587  cd Desktop/
+ 1588  ls
+ 1589  cd learnitall/
+ 1590  ls
+ 1591  cd profile_page/
+ 1592  npm start
+ 1593  ls
+ 1594  npm start
+ 1595  sudo killall npm
+ 1596  npm start
+ 1597  sudo killall npm
+ 1598  netstat
+ 1599  cd Desktop/learnitall/profile_page/src/components/
+ 1600  touch App.js
+ 1601  touch Form.js && Hamburger.js && Header.js
+ 1602  touch Hamburger.js && Header.js
+ 1603  touch Header.js
+ 1604  touch Nav.js
+ 1605  touch Profile.js
+ 1606  touch ProfilePhoto.js
+ 1607  gedit App.js
+ 1608  gedit Nav.js
+ 1609  gedit Form.js 
+ 1610  gedit Hamburger.js 
+ 1611  gedit Header.js 
+ 1612  gedit Profile.js
+ 1613  gedit ProfilePhoto.js 
+ 1614  npm start
+ 1615  cd Desktop/learnitall/profile_page/
+ 1616  npm build
+ 1617  npm start
+ 1618  cd
+ 1619  sudo netstat -lpn |grep :8080
+ 1620  cd Desktop/learnitall/profile_page/
+ 1621  npm start
+ 1622  sudo kill 14618
+ 1623  cd
+ 1624  sudo kill 14618
+ 1625  cd Desktop/learnitall/profile_page/
+ 1626  npm start
+ 1627  pwd
+ 1628  ls
+ 1629  cd ..
+ 1630  ls
+ 1631  cd profile_page/
+ 1632  ls
+ 1633  cd src
+ 1634  ls
+ 1635  gedit index.js
+ 1636  pwd
+ 1637  ls
+ 1638  cd Desktop/learnitall/profile_page/
+ 1639  ls
+ 1640  cd src
+ 1641  ls
+ 1642  cd .
+ 1643  cd ..
+ 1644  npm start
+ 1645  cd Desktop/learnitall/profile_page/
+ 1646  ls
+ 1647  npm start
+ 1648  npm install node-sass
+ 1649  npm install --no-optional
+ 1650  npm start
+ 1651  npm install --save prop-types
+ 1652  npm start
+ 1653  sudo npm install --save prop-types
+ 1654  npm start
+ 1655  npm prune
+ 1656  sudo npm prune
+ 1657  npm start
+ 1658  ls
+ 1659  cd Desktop/React/
+ 1660  ls
+ 1661  cd instagram/
+ 1662  ls
+ 1663  npm start
+ 1664  ls
+ 1665  cd Desktop/
+ 1666  ls
+ 1667  cd learnitall/
+ 1668  ls
+ 1669  cd profile_page/
+ 1670  ls
+ 1671  npm start
+ 1672  audo npm install node-sass
+ 1673  sudo npm install node-sass
+ 1674  npm start
+ 1675  killall node
+ 1676  npm start
+ 1677  npm run build
+ 1678  npm start
+ 1679  killall node
+ 1680  npm start
+ 1681  sudo killall node
+ 1682  npm start
+ 1683  pwd
+ 1684  npm install
+ 1685  sudo npm install
+ 1686  npm start
+ 1687  pwd
+ 1688  yarn --v
+ 1689  yarn -v
+ 1690  yarn version
+ 1691  node version
+ 1692  npm 
+ 1693  npm start
+ 1694  sudo npm install node-sass
+ 1695  npm start
+ 1696  cd Desktop/learnitall/profile_page/
+ 1697  ls
+ 1698  npm start
+ 1699  webpack --version
+ 1700  npm list webpack
+ 1701  npm install --save-dev webpack-cli
+ 1702  sudo npm install --save-dev webpack-cli
+ 1703  node --v
+ 1704  node -v
+ 1705  npm start
+ 1706  yarn --version
+ 1707  yarn add node-sass
+ 1708  yarn node-sass
+ 1709  cd ..
+ 1710  cd
+ 1711  npm install sass-loader node-sass webpack --save-dev
+ 1712  npm start
+ 1713  cd Desktop/learnitall/profile_page/
+ 1714  npm start
+ 1715  cd
+ 1716  sudo npm cache clean -f
+ 1717  rmdir '/home/rajbuddy/.npm/types-registry/0.1.409/package'
+ 1718  sudo npm install -g n
+ 1719  sudo n stable
+ 1720  ls
+ 1721  cd Desktop/
+ 1722  cd learnitall/profile_page/
+ 1723  npm start
+ 1724  rmdir node_modules/
+ 1725  ls
+ 1726  cd node_modules/
+ 1727  ls
+ 1728  sudo rmdir anymatch/
+ 1729  cd ..
+ 1730  rm -rf node_modules/
+ 1731  sudo rm -rf node_modules/
+ 1732  ls
+ 1733  npm install
+ 1734  npm install -g json
+ 1735  sudo npm install json
+ 1736  sudo npm cache clean -f
+ 1737  sudo npm install -g n
+ 1738  sudo n stable
+ 1739  cd
+ 1740  sudo npm install json
+ 1741  cd learnitall/profile_page/
+ 1742  ls
+ 1743  cd Desktop/learnitall/profile_page/
+ 1744  ls
+ 1745  npm install
+ 1746  ls
+ 1747  sudo npm install -g
+ 1748  npm install json
+ 1749  npm init
+ 1750  npm init --yes
+ 1751  sudo npm install
+ 1752  ls
+ 1753  npm start
+ 1754  ls
+ 1755  cd
+ 1756  node -version
+ 1757  node --version
+ 1758  cd Desktop/learnitall/profile_page/
+ 1759  node -v
+ 1760  npm install
+ 1761  npm install node
+ 1762  npm start
+ 1763  sudo npm install node
+ 1764  gedit /home/rajbuddy/.npm/_logs/2018-11-14T18_14_52_367Z-debug.log
+ 1765  sudo npm install package.json
+ 1766  ls
+ 1767  npm start
+ 1768  npm sqlite3
+ 1769  npm ls sqlite3
+ 1770  cd
+ 1771  npm un sqlite3
+ 1772  npm i --save ...<all other packages>... sqlite3
+ 1773  cd Desktop/learnitall/profile_page/
+ 1774  cd node_modules/
+ 1775  npm i --save ...<all other packages>... sqlite3
+ 1776  npm i --save sqlite3
+ 1777  npm start
+ 1778  cd
+ 1779  npm install --save-dev webpack-cli
+ 1780  ls
+ 1781  cd Desktop/learnitall/profile_page/
+ 1782  cd node_modules/
+ 1783  npm install --save-dev webpack-cli
+ 1784  cd..
+ 1785  cd ..
+ 1786  sudo npm install --save-dev webpack-cli
+ 1787  npm start
+ 1788  node_modules/.bin/webpack-dev-server
+ 1789  ./webpack-dev-server
+ 1790  npm run start:dev
+ 1791  pwd
+ 1792  ls
+ 1793  cd Desktop/
+ 1794  ls
+ 1795  cd learnitall/
+ 1796  ls
+ 1797  npm install -g create-react-app
+ 1798  sudo npm install -g create-react-app
+ 1799  create-react-app todo-app
+ 1800  ls
+ 1801  cd todo-app/
+ 1802  npm start
+ 1803  cd
+ 1804  ls
+ 1805  cd rajbuddy
+ 1806  cd /home
+ 1807  ls
+ 1808  cd rajbuddy/
+ 1809  ls
+ 1810  rm package-lock.json 
+ 1811  ls
+ 1812  cd node_modules/
+ 1813  ls
+ 1814  cd
+ 1815  l
+ 1816  cd Desktop/
+ 1817  cd learnitall/
+ 1818  cd profile_page/
+ 1819  cd .
+ 1820  cd ..
+ 1821  ls
+ 1822  cd todo-app/
+ 1823  ls
+ 1824  rm package-lock.json 
+ 1825  npm start
+ 1826  cd
+ 1827  ls
+ 1828  rm node_modules/
+ 1829  sudo rm -f node_modules/
+ 1830  sudo -f rm node_modules/
+ 1831  rm -rf node_modules/
+ 1832  sudo rm -rf node_modules/
+ 1833  ls
+ 1834  rm Public/
+ 1835  sudo rm -rf Public/
+ 1836  ls
+ 1837  cd Desktop/
+ 1838  cd learnitall/
+ 1839  ls
+ 1840  cd todo-app/
+ 1841  ls
+ 1842  npm start
+ 1843  pwd
+ 1844  cd Desktop/learnitall/todo-app/
+ 1845  npm start
+ 1846  heroku logs --tail
+ 1847  pwd
+ 1848  ls
+ 1849  cd src/
+ 1850  ls
+ 1851  touch mockDB.js
+ 1852  ls
+ 1853  pwd
+ 1854  ls
+ 1855  cd Desktop/learnitall/
+ 1856  ls
+ 1857  cd todo-app/
+ 1858  ls
+ 1859  cd src
+ 1860  ls
+ 1861  npm start
+ 1862  cd Desktop/learnitall/profile_page/
+ 1863  nom start
+ 1864  npm start
+ 1865  cd ..
+ 1866  cd todo-app/
+ 1867  npm start
+ 1868  killall node
+ 1869  npm start
+ 1870  touch package.json
+ 1871  gedit package.json 
+ 1872  sudo npm install
+ 1873  npm audit fix
+ 1874  npm start
+ 1875  sudo apt-get install wine
+ 1876  uname a
+ 1877  uname -a
+ 1878  sudo add-apt-repository ppa:otto-kesselgulasch/gimp-edge
+ 1879  sudo apt-get install ppa-purge
+ 1880  sudo ppa-purge ppa:otto-kesselgulasch/gimp-edge
+ 1881  sudo add-apt-repository ppa:otto-kesselgulasch/gimp-edge
+ 1882  sudo apt-get update && sudo apt-get upgrade
+ 1883  sudo add-apt-repository ppa:otto-kesselgulasch/gimp-edge
+ 1884  sudo apt update && sudo apt install gimp gimp-gmic
+ 1885  ls
+ 1886  sudo g++ -o classandobject classandobject.cpp 
+ 1887  ./classandobject 
+ 1888  sudo g++ -o classandobject classandobject.cpp 
+ 1889  ./classandobject 
+ 1890  sudo g++ -o classandobject classandobject.cpp 
+ 1891  ./classandobject 
+ 1892  sudo g++ -o classandobject classandobject.cpp 
+ 1893  ./classandobject 
+ 1894  sudo g++ -o classandobject classandobject.cpp 
+ 1895  ./classandobject 
+ 1896  sudo g++ -o classandobject classandobject.cpp 
+ 1897  ./classandobject 
+ 1898  sudo g++ -o classandobject classandobject.cpp 
+ 1899  ./classandobject 
+ 1900  sudo g++ -o classandobject classandobject.cpp 
+ 1901  ./classandobject 
+ 1902  sudo g++ -o classandobject classandobject.cpp 
+ 1903  ./classandobject 
+ 1904  sudo g++ -o classandobject classandobject.cpp 
+ 1905  ./classandobject 
+ 1906  sudo g++ -o classandobject classandobject.cpp 
+ 1907  ./classandobject 
+ 1908  sudo g++ -o classandobject classandobject.cpp 
+ 1909  ./classandobject 
+ 1910  sudo g++ -o classandobject classandobject.cpp 
+ 1911  ./classandobject 
+ 1912  sudo g++ -o classandobject classandobject.cpp 
+ 1913  python --v
+ 1914  python --version
+ 1915  ls
+ 1916  cd Documents/
+ 1917  ls
+ 1918  cd python/
+ 1919  ls
+ 1920  python helloworld.py 
+ 1921  ls
+ 1922  python addtwonumbers.py 
+ 1923  ls
+ 1924  python addtwonumbersfromuser.py 
+ 1925  cd Documents/
+ 1926  cd python/
+ 1927  ls
+ 1928  python squareroot.py 
+ 1929  ls
+ 1930  python areaofatriangle.py 
+ 1931  sudo g++ -o classandobject classandobject.cpp 
+ 1932  cd Documents/
+ 1933  ls
+ 1934  cd c_plus_plus/
+ 1935  ls
+ 1936  sudo g++ -o classandobject classandobject.cpp 
+ 1937  cd classandobjects/
+ 1938  sudo g++ -o classandobject classandobject.cpp 
+ 1939  cd Documents/
+ 1940  ls
+ 1941  cd python/
+ 1942  ls
+ 1943  python quadraticeqautions.py 
+ 1944  cd Do
+ 1945  cd Documents/
+ 1946  ls
+ 1947  cd python/
+ 1948  ls
+ 1949  python quadraticeqautions.py 
+ 1950  cd Documents/
+ 1951  ls
+ 1952  cd python/
+ 1953  ls
+ 1954  python swappingvariables.py 
+ 1955  cd >Documents/
+ 1956  ls
+ 1957  cd Documents/
+ 1958  ls
+ 1959  cd python/
+ 1960  ls
+ 1961  python swappingvariables.py 
+ 1962  cd Documents/
+ 1963  cd python/
+ 1964  ls
+ 1965  python generatearandomnumber.py 
+ 1966  python
+ 1967  update-alternatives --remove python/usr/bin/python2
+ 1968  update-alternatives --remove python /usr/bin/python2
+ 1969  update-alternatives --install /usr/bin/python python /usr/binpython3 1
+ 1970  update-alternatives --install /usr/bin/python python /usr/bin/python3 1
+ 1971  sudo update-alternatives --install /usr/bin/python python /usr/bin/python3 1
+ 1972  python --version
+ 1973  git --version
+ 1974  pip --version
+ 1975  apt-get install python3-pip
+ 1976  sudo apt-get install python3-pip
+ 1977  which pip3
+ 1978  ln -s /usr/bin/pip3 /usr/bin/pip
+ 1979  sudo ln -s /usr/bin/pip3 /usr/bin/pip
+ 1980  pip -v
+ 1981  pip --version
+ 1982  sudo pip install django==1.11
+ 1983  pip install --upgrade pip
+ 1984  apt-get update
+ 1985  sudo apt-get update
+ 1986  curl "https://bootstrap.pypa.io/get-pip.py" -o "get-pip.py"
+ 1987  sudo python get-pip.py
+ 1988  sudo -H python get-pip.py
+ 1989  pip --version
+ 1990  ls
+ 1991  sudo -H curl "https://bootstrap.pypa.io/get-pip.py" -o "get-pip.py"
+ 1992  sudo -H python get-pip.py
+ 1993  pip --version
+ 1994  ls
+ 1995  which pip
+ 1996  type pip
+ 1997  hash -r
+ 1998  pip --version
+ 1999  sudo pip install django==1.10
+ 2000  sudo -H pip install django==1.11
+ 2001  django-admin --version
+ 2002  python
+ 2003  git --version
+ 2004  easy_install -v
+ 2005  sudo apt install python-setuptools
+ 2006  mysql -v
+ 2007  sudo mysql -v
+ 2008  sqlite -v
+ 2009  sudo apt install sqlite
+ 2010  virtualenv -v
+ 2011  sudo pip install virtualenv
+ 2012  sudo -H pip install virtualenv
+ 2013  ls
+ 2014  pwd
+ 2015  sudo /usr
+ 2016  sudo /usr/
+ 2017  cd /usr/
+ 2018  ls
+ 2019  cd ..
+ 2020  cd
+ 2021  ls
+ 2022  cd Desktop/
+ 2023  ls
+ 2024  mkdir dev
+ 2025  ls
+ 2026  cd dev
+ 2027  virtualenv -p /usr/bin/python3 prajproject
+ 2028  ls
+ 2029  cd prajproject/
+ 2030  .bin/activate
+ 2031  . bin/activate
+ 2032  pip install django
+ 2033  django-admin startproject new_site
+ 2034  history >history_for_print_Dec8.txt

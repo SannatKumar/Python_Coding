@@ -1,0 +1,60 @@
+
+
+
+Three steps
+
+Creating the database
+
+modifying settings
+
+synchronize database
+
+sqlite is default in the django platform
+SQLite datatypes
+
+NULL:The value is a NULL value.
+
+INTEGER The value is a signed integer, stored in 1, 2, 3, 4, 6, or 8 bytes depending on the magnitude of the value.
+
+REAL: The value is a floating point value, stored as an 8-byte IEEE floating point number.
+
+TEXT: The value is a text string, stored using the database encoding (UTF-8, UTF-16BE or UTF-16LE)
+
+BLOB: The value is a blob of data, stored exactly as it was input.
+
+the SQLITE command tO Create a Database would be:
+
+>sqlite3 databaseName.db
+
+
+
+show list of databases
+>.databases
+
+Quit command
+>.quit
+
+Export database in a text file from command line
+
+$sqlite3 databaseName.db .dump > databaseName.sql(text file name )
+
+Restoration of above process
+
+$sqlite databaseName.db < databaseName.sql
+
+
+creating table in sqlite
+
+CREATE TABLE database_name.table_name(
+	column1 datatype PRIMARY KEY(one or more columns),
+	column2 datatype,
+	column3 datatype
+	....
+	columnLast datatype
+);
+
+Ctrl+z to quit the sqlite terminal
+
+
+
+
