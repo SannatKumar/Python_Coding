@@ -1,8 +1,7 @@
-#This program compares things and prints the boolean value
+#This program compares values and prints the boolean result
 
 #Boolean refers to the value True or Fale
-# below comparison produce False result and the relut is stored in variable name boolean_value
-#next line simply prints it
+
 
 """*** Things I learned here.Putting print after input produces "None" prompt word before user gets to input
 """
