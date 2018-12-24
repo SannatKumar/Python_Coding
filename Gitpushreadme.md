@@ -1,4 +1,4 @@
-#how to push your existing codes to github creating a new repository
+#How to push your existing codes to github creating a new repository
 
 First create a new repository in the Github Account.
 
@@ -8,7 +8,7 @@ HTTPs: https://github.com/SannatKumar/Python_Coding.git
 
 SSH: git@github.com:SannatKumar/Python_Coding.git
 
-Initialized without README, LICENSE and .gitignore #We ca create them later
+Initialize without README, LICENSE and .gitignore #We can create them later
 
 Open terminal in your local Folder
 
@@ -22,7 +22,7 @@ git init
 
 git status
 
-#Add them to your repo stages them for next step
+#Add them to your repo and stages them for next step
 
 git add .
 
